@@ -32,4 +32,4 @@ This project helps you understand how each algorithm works by animating the sort
 ## Getting Started
 Clone the repo and open `index.html` in your browser:
 ```bash
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://github.com/Sahil-hossen/sorting-visualizer.git
